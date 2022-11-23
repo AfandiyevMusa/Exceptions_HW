@@ -1,0 +1,12 @@
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/bin/Debug/net6.0/Domain.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/obj/Debug/net6.0/Domain.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Domain/obj/Debug/net6.0/ref/Domain.dll

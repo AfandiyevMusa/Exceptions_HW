@@ -1,0 +1,15 @@
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/bin/Debug/net6.0/Service.deps.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/bin/Debug/net6.0/Service.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/bin/Debug/net6.0/Service.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/bin/Debug/net6.0/Domain.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/bin/Debug/net6.0/Domain.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/Service.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/Service.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/Service.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/Service.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/Service.csproj.CopyComplete
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/Service.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/refint/Service.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/Service.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Exceptions_HW/Service/obj/Debug/net6.0/ref/Service.dll

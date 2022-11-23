@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{CCF4BA3A-BF17-4139-AA5F-9D6BDDDE9B0A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Exceptions__HW PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exceptions_HW/Controller/AccountController.cs">
+    <Files>
+      <File FileName="Exceptions_HW/Program.cs" Line="148" Column="1" />
+      <File FileName="Domain/Models/Login.cs" Line="8" Column="46" />
+      <File FileName="Service/Services/LoginService.cs" Line="10" Column="21" />
+      <File FileName="Service/Services/Interfaces/ILoginService.cs" Line="6" Column="73" />
+      <File FileName="Domain/Models/User.cs" Line="1" Column="1" />
+      <File FileName="Exceptions_HW/Controller/AccountController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exceptions_HW" expanded="True">
+            <Node name="Domain" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Exceptions_HW" expanded="True">
+              <Node name="Controller" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
