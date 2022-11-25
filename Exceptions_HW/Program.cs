@@ -2,9 +2,35 @@
 
 
 using System.Text.RegularExpressions;
+using Domain.Models;
 using Exceptions_HW.Controller;
+using System.Collections;
 
 #region Task_1
+
+    MyList<string> list = new MyList<string>();
+    list.Add("hello");
+    list.Add("sddf");
+list.Clear();
+//list.GetAll();
+
+//list.Find("hello");
+//list.GetAll();
+
+
+
+
+//List<int> numbers = new List<int>();
+
+//numbers.Add(5);
+//numbers.Add(23);
+//numbers.Add(190);
+//numbers.Add(60);
+//numbers.Add(120);
+//numbers.Add(90);
+
+//List<int> nums = new List<int>() { 10, 20, 30, 40, 50 };
+
 
 #endregion
 
